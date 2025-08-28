@@ -1,0 +1,1 @@
+This is b.txt file and it's line number 1 
